@@ -1,2 +1,2 @@
 # 1E3
-Repository for 1E3 module in Trinity College Dublin
+My git repository for 1E3 module on the TCD Engineering course
